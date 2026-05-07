@@ -1,0 +1,6 @@
+[submodule "DA-blogverse-backend"]
+	path = DA-blogverse-backend
+	url = https://github.com/Roibruler/DA-blogverse-backend.git
+[submodule "DA-blogverse-frontend"]
+	path = DA-blogverse-frontend
+	url = https://github.com/Roibruler/DA-blogverse-frontend.git
